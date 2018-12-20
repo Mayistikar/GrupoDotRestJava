@@ -10,7 +10,7 @@ La creación del REST se realizó con asistencia Netbeans y siendo los archivos 
 Es el archivo que maneja la lógica y realiza los cálculos.
 
 ## /src/java/com/grupodot/jaxrs/Tasa.java
-Es el archivo JPA que mapea la única tabla en base de datos con las tasas Ver archivo tasa.sql.
+Es el archivo JPA que mapea la única tabla en base de datos con las tasas Ver archivo GrupoDotRestJava/src/grupodot.sql.
 
 ## /src/java/com/grupodot/jaxrs/service/TasaFacadeREST.java
 El archivo que maneja las peticiones.
